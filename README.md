@@ -9,10 +9,10 @@ using Array. hope this sample helping you to make a REST API.
 
 ## routes
 
-| Route                    | Description          |
-| ------------------------ | -------------------- |
-| GET /user                | return all the users |
-| GET /user/{fullname}     | return a user        |
-| POST /user               | add a user           |
-| PUT /user/{fullname}     | update a user        |
-| DELETE /books/{fullname} | delete a user        |
+| Route                   | Description          |
+| ----------------------- | -------------------- |
+| GET /user               | return all the users |
+| GET /user/{fullname}    | return a user        |
+| POST /user              | add a user           |
+| PUT /user/{fullname}    | update a user        |
+| DELETE /user/{fullname} | delete a user        |
